@@ -1,7 +1,7 @@
 All Maps / All Achievements / IronMan Completed
-```powershell
-Win+R
-```
+
+Press: Win+R
+
 
 ```powershell
 %AppData%
