@@ -1,12 +1,7 @@
 All Maps / All Achievements / IronMan Completed
 
-Press: Win+R
-
-
-```powershell
-%AppData%
-```
+Save on
 
 ```powershell
-\AppData\Local\ReadyOrNot\Saved
+%LOCALAPPDATA% \ReadyOrNot\Saved\SaveGames
 ```
